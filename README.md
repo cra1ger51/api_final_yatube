@@ -94,7 +94,7 @@ python3 manage.py runserver
 ```
 ______________________________________
 ### Авторы
-Даниил Алексеенко
+Даниил Алексеенко (https://github.com/cra1ger51/)
 
 ### Лицензия
 BSD 3-Clause License
